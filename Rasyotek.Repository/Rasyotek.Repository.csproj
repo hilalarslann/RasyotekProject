@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rasyotek.Core\Rasyotek.Core.csproj" />
+    <ProjectReference Include="..\Rasyotek.DTO\Rasyotek.DTO.csproj" />
+    <ProjectReference Include="..\Rasyotek.Entities\Rasyotek.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
