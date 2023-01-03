@@ -1,5 +1,5 @@
 
-1-Rasyotek.Service içerisindeki appsettings.json'dan Server adı güncellenecek
+1-Rasyotek.Service içerisindeki appsettings.json'dan Server adı güncellenecektir
 
 2-Rasyotek.Service - Set as Startup Project
 
