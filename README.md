@@ -11,4 +11,4 @@ b-Update-Database
 
 4-Projeyi çalıştırdıktan sonra Rasyotek.UI sağ tıklayıp Debug - Start New Instance
 
-<img src="https://github.com/hilalarslann/RasyotekProject/issues/1#issue-1517079544"></img>
+<img src="https://user-images.githubusercontent.com/107270736/210326235-fe102dd7-6aae-4abe-b67f-e8fd5ba6f3a4.png"></img>
