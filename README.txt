@@ -10,3 +10,4 @@ b-Update-Database
 4-Projeyi çalıştırdıktan sonra Rasyotek.UI sağ tıklayıp Debug - Start New Instance
 
 
+<img src="https://github.com/hilalarslann/RasyotekProject/blob/main/Registration-Form.png" width="auto">
