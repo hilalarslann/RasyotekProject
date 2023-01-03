@@ -9,4 +9,4 @@ b-Update-Database
 
 4-Projeyi çalıştırdıktan sonra Rasyotek.UI sağ tıklayıp Debug - Start New Instance
 
-![image](C:\Users\hilal\OneDrive\Masaüstü)
+
